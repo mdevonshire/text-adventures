@@ -397,8 +397,8 @@ def cave_room_1z():
 #--------------------------------------------------------------------------------------
 def a2_cave_room():
 	global killed_rats
-	global
-	global
+	#global
+	#global
 	killed_rats = 0
 	arrows_in_rats = 0
 	shurikens_in_rats = 0
